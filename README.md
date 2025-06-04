@@ -61,8 +61,7 @@ See the `LICENSE` file for full details.
 
 ## 👤 Author
 
-Developed at the **University of Alicante**.  
+Developed by **Adrián Riquelme Guill** at the **University of Alicante**.  
 For questions, suggestions, or contributions, please open an issue or submit a pull request.
 
 ---
-
