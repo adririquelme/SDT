@@ -41,6 +41,7 @@ This tool enables users to:
 ## 📦 Requirements
 
 - MATLAB R2024b
+- Computer Vision Toolbox
 - No additional toolboxes required
 - Compatible with operating systems supported by MATLAB GUI
 
@@ -62,4 +63,6 @@ See the `LICENSE` file for full details.
 
 Developed at the **University of Alicante**.  
 For questions, suggestions, or contributions, please open an issue or submit a pull request.
+
+---
 
